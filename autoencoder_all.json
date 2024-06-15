@@ -1,0 +1,20 @@
+{
+    "roc_auc": 1.0,
+    "accuracy": 1.0,
+    "benign": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "attack": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+    },
+    "tp": 28355,
+    "tn": 10065,
+    "fp": 0,
+    "fn": 0,
+    "false_alerts": 0,
+    "attack_passed": 0.0
+}
