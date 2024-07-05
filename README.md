@@ -1,4 +1,4 @@
-# Bachelor Thesis (Romanian language repo)
+# Bachelor's Thesis (Romanian language repo)
 Daca folositi acest repo sau lucrarea de licenta, va rog sa citati folosind butonul de citare din interfata Github sau sa respectati instructiunile din fisierul [CITATION.cff](CITATION.cff)
 ___
 
