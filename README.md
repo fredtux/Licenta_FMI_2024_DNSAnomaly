@@ -19,6 +19,8 @@ Lista dataseturilor folosite:
 Pentru datasetul CICBellEXFDNS2021 trebuie mentionata si urmatoarea lucrare:
 * Samaneh Mahdavifar, Amgad Hanafy Salem, Princy Victor, Miguel Garzon, Amir H. Razavi, Natasha Hellberg, Arash Habibi Lashkari, “Lightweight Hybrid Detection of Data Exfiltration using DNS based on Machine Learning”, The 11th IEEE International Conference on Communication and Network Security (ICCNS), Dec. 3-5, 2021, Beijing Jiaotong University, Weihai, China.
 
+### Textul lucrarii
+In sectiunea Releases: [https://github.com/fredtux/Licenta_FMI_2024_DNSAnomaly/releases/tag/v1.0](https://github.com/fredtux/Licenta_FMI_2024_DNSAnomaly/releases/tag/v1.0)
 
 ## Licenta
 
